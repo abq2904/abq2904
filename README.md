@@ -91,5 +91,5 @@ I’ve delivered multiple production systems end-to-end, often owning **architec
 ## 🌍 Let’s Connect
 
 📫 Email: abq2904@gmail.com
-🔗 LinkedIn: [linkedin.com/in/basit-qureshi](https://www.linkedin.com/in/basit-qureshi)
+🔗 LinkedIn: [linkedin.com/in/abq290](https://www.linkedin.com/in/abq290)
 🔗 GitHub: [github.com/abq2904](https://github.com/abq2904)
